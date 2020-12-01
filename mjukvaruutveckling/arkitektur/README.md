@@ -1,6 +1,6 @@
 # Arkitektur
 
-### Syfte
+## Syfte
 
 1. **Oberoende av ramverk**. Ramverk används som verktyg och får inte utgöra en begränsande faktor på systemet.
 2. **Testbart**. Affärsregler kan testas oberoende av gränssnitt, databas, webbserver och övriga externa beroenden.
@@ -8,11 +8,11 @@
 4. **Oberoende av databas**. Affärsregler är inte knutna till databasen och skall gå att byta ut.
 5. **Oberoende av externa faktorer**. Affärsreglerna vet ingenting om omvärlden utom det som är av nytta för systemet.
 
-### Historik
+## Historik
 
 Alistair Cockburn var en av de 17 personer som skrev det agila manifestet 2001, där han var känd för sina lättviktiga varianter av annars ganska tungrodda processer i en metodik han kallade Crystal, där bland annat "lightweight use cases".
 
-2005 presenterade han första gången Hexagonal Architecture \(även kallat Ports & Adapters\) som en lösning på problem med lagring och coupling. 
+2005 presenterade han första gången Hexagonal Architecture \(även kallat Ports & Adapters\) som en lösning på problem med lagring och coupling.
 
 Motivationen löd:
 

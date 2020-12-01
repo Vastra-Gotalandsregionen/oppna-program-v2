@@ -2,13 +2,11 @@
 
 Git är utpekad standard för versionshantering av kod.
 
-### Branchhantering
+## Branchhantering
 
 ![](../../.gitbook/assets/image%20%2811%29.png)
 
-{% embed url="https://trunkbaseddevelopment.com/" %}
-
-
+{% embed url="https://trunkbaseddevelopment.com/" caption="" %}
 
 | Team | Källkodshantering | CI/CD |
 | :--- | :--- | :--- |
@@ -22,7 +20,7 @@ Git är utpekad standard för versionshantering av kod.
 | TEARS | TFS | Jenkins \(vgas1973.vgregion.se\) |
 | Köpt Vård/IVard | TFS | ? |
 
-### Centraliserade instanser
+## Centraliserade instanser
 
 TFS - vgrtfs.vgregion.se - Bör fasas ut till fördel för GitLab. Frågetecken för hur svårt det är att migrera byggen.
 
@@ -30,7 +28,7 @@ Jenkins - jenkins.vgregion.se - Är en över ett år gammal installation med en 
 
 GitLab - git.vgregion.se - Har pratat med Cristian Engström \(ICC\) som arbetat en del med det och Luke Simmons som installerat runners åt ICC. Ivan K som varit drivande på att ta in GitLab och gjort initialt arbete med det har slutat. Produktägare eller förvaltare för GitLab är Valon Hysenaj.
 
-### Frågor
+## Frågor
 
 * Hur beställer man ett projekt i Jenkins \(jenkins.vgregion.se\)?
 * GitLab kan man skapa upp själv med AD-inloggning. Hur sätter man upp byggagenter och pipelines
