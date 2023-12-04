@@ -1,8 +1,6 @@
 # Table of contents
 
 * [Introduktion](README.md)
-* [Projekt inom VGR IT](projekt-inom-vgr-it.md)
-* [VGR IT organisation](vgr-it-organisation.md)
 
 ## Mjukvaruutveckling
 
@@ -38,7 +36,7 @@
 * [Dokumentation](mjukvaruutveckling/dokumentation/README.md)
   * [Kod som dokumentation](mjukvaruutveckling/dokumentation/kod-som-dokumentation.md)
   * [Artefakter](mjukvaruutveckling/dokumentation/artefakter/README.md)
-    * [Software Architecture Document \(SAD\)](mjukvaruutveckling/dokumentation/artefakter/software-architecture-document-sad.md)
+    * [Software Architecture Document (SAD)](mjukvaruutveckling/dokumentation/artefakter/software-architecture-document-sad.md)
     * [Arkitekturella beslut](mjukvaruutveckling/dokumentation/artefakter/arkitekturella-beslut.md)
 * [Teknikstackar](mjukvaruutveckling/teknikval/README.md)
   * [Java](mjukvaruutveckling/teknikval/java.md)
@@ -52,7 +50,6 @@
 * [Governance](arkitekturell-styrning/governance/README.md)
   * [Guidelines](arkitekturell-styrning/governance/guidelines.md)
 
----
+***
 
 * [Changelog](changelog.md)
-
