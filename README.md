@@ -1,4 +1,7 @@
+---
+description: En handbok för dig som skall bedriva mjukvaruutveckling inom VGR.
+---
+
 # Introduktion
 
-![](.gitbook/assets/image%20%2813%29.png)
-
+![](<.gitbook/assets/image (13).png>)
