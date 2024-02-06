@@ -1,4 +1,0 @@
-# Arbetssätt
-
-Scrum, kanban
-
