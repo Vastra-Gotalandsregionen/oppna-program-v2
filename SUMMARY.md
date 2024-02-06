@@ -18,7 +18,7 @@
   * [Integration](plattformsstoed/bestaellning-av-tjaenster/integration.md)
 * [Beställning av miljöer](plattformsstoed/bestaellning-av-miljoeer/README.md)
   * [Kubernetes](plattformsstoed/bestaellning-av-miljoeer/kubernetes.md)
-  * [Virtuella Miljöer](plattformsstoed/bestaellning-av-miljoeer/virtuella-miljoeer.md)
+  * [Server](plattformsstoed/bestaellning-av-miljoeer/server.md)
   * [Databas](plattformsstoed/bestaellning-av-miljoeer/databas.md)
   * [DNS](plattformsstoed/bestaellning-av-miljoeer/dns.md)
   * [Certifikat](plattformsstoed/bestaellning-av-miljoeer/certifikat.md)
