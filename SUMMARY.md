@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduktion](README.md)
+* [Välkommen](README.md)
 
 ## Arkitekturellt stöd
 
