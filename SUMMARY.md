@@ -12,7 +12,7 @@
 * [Beställning av tjänster](plattformsstoed/bestaellning-av-tjaenster/README.md)
   * [Inloggningstjänster](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/README.md)
     * [Lokal IdP](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/lokal-idp.md)
-    * [ADFS](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/adfs.md)
+    * [VGR AD (AD FS)](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/vgr-ad-ad-fs.md)
     * [BankID](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/bankid.md)
     * [ADC](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/adc.md)
   * [Integration](plattformsstoed/bestaellning-av-tjaenster/integration.md)
