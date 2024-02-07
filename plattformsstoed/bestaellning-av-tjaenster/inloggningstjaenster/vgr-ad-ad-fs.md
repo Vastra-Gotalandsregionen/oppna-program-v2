@@ -8,8 +8,7 @@ AD FS federation beställs som en "Övrig supporttjänst" i Plexus och assignas 
 
 Till beställningen skall nedanstående fil bifogas ifylld (Beställning av federation till VGR AD (AD FS).
 
-\
-\### Länkar
+#### Länkar
 
 {% file src="../../../.gitbook/assets/Beställning av federation till VGR AD (AD FS).docx" %}
 

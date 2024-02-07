@@ -22,4 +22,4 @@ description: >-
 
 [Integration Competence Center](https://insidan.vgregion.se/forvaltningar/koncernkontoret/kontakt-och-organisation/organisation/koncernkontorets-organisation/koncernstab-digitalisering/ledningssystem-KSD/sa-har-arbetar-vi/arbetssatt-processer/integration/) (Insidan)
 
-Produktområdet Integration ()
+[Produktområdet Integration](https://vgregion.sharepoint.com/sites/sy-rs-arkitekturfunktionen/SitePages/Integration.aspx) (SharePoint)
