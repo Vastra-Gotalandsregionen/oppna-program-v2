@@ -3,6 +3,9 @@ description: >-
   För källkodshantering och DevOps finns GitLab tillgänglig för
   utvecklingsprojekt. Plattformen erbjuds self-service och samtliga medarbetare
   med ett SITHS-kort kan logga in i plattformen.
+cover: >-
+  ../.gitbook/assets/Velocity-creates-value_-Practical-guide-to-outsource-DevOps-tasks-for-your-project-1.png.webp
+coverY: -12
 ---
 
 # Källkodshantering
