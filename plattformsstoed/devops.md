@@ -8,10 +8,10 @@ cover: >-
 coverY: -12
 ---
 
-# Källkodshantering
+# DevOps
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Förmågor som GitLab Premium innefattar</p></figcaption></figure>
 
-Länkar
+#### Länkar
 
 [GitLab](https://git.vgregion.se/) (åtkomlig via VPN)
