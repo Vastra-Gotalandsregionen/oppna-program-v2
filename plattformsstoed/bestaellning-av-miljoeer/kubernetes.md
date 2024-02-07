@@ -10,12 +10,12 @@ Kubernetes levereras från datacentret i Skövde där vi har två miljöer. En f
 
 Paketet med tjänster består av följande komponenter:
 
-* **Nginx**, är en ingress för att ta emot inkommande trafik.
-* **Certmanager**, för att få certifikat till ingressen.&#x20;
-* **Argo-CD**, för att installera och hantera tjänster enligt GitOps-pattern.
-* **Prometheus**, metrikinsamling och alerting.
-* **Grafana**, för att visualisera metrik.
-* **Loki** för att titta på loggar.
+* [**Nginx**](https://www.nginx.com/), är en ingress för att ta emot inkommande trafik.
+* [**Certmanager**](https://cert-manager.io/), för att få certifikat till ingressen.&#x20;
+* [**Argo-CD**](https://argo-cd.readthedocs.io/en/stable/), för att installera och hantera tjänster enligt GitOps-pattern.
+* [**Prometheus**](https://prometheus.io/), metrikinsamling och alerting.
+* [**Grafana**](https://grafana.com/), för att visualisera metrik.
+* [**Loki** ](https://github.com/grafana/loki)för att titta på loggar.
 
 ### **Beställning av kuberneteskluster**
 
