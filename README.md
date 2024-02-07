@@ -1,5 +1,7 @@
 ---
-description: En handbok för dig som skall bedriva mjukvaruutveckling inom VGR.
+description: >-
+  En handbok för dig som redan bedriver eller är i fart att starta upp ett
+  mjukvaruutvecklings initiativ inom VGR.
 ---
 
 # Introduktion

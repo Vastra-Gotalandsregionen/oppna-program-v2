@@ -7,6 +7,12 @@ description: >-
 
 # Källkodshantering
 
-
+<div align="left">
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+#### Länkar
+
+[GitLab](https://git.vgregion.se/) (åtkomlig via VPN)
