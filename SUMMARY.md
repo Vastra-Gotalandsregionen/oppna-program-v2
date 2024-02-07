@@ -11,7 +11,7 @@
 * [Källkodshantering](plattformsstoed/kaellkodshantering.md)
 * [Beställning av tjänster](plattformsstoed/bestaellning-av-tjaenster/README.md)
   * [Inloggningstjänster](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/README.md)
-    * [Lokala Säkerhetstjänster](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/lokala-saekerhetstjaenster.md)
+    * [Lokal IdP](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/lokal-idp.md)
     * [ADFS](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/adfs.md)
     * [BankID](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/bankid.md)
     * [ADC](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/adc.md)
