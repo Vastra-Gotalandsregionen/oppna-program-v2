@@ -14,6 +14,6 @@ Glöm inte att implementation med säker start är ett krav från 1 april 2024
 
 #### Länkar
 
-[Tjänsteområde identitet, behörighe](https://insidan.vgregion.se/stod-och-tjanster/amnen-a-o/digitalisering/kontakt/tjansteomraden/tjo-id-beh-org/)[t och organisation](https://insidan.vgregion.se/stod-och-tjanster/amnen-a-o/digitalisering/kontakt/tjansteomraden/tjo-id-beh-org/) (Insidan)
+[Tjänsteområde identitet, behörighet och organisation](https://insidan.vgregion.se/stod-och-tjanster/amnen-a-o/digitalisering/kontakt/tjansteomraden/tjo-id-beh-org/) (Insidan)
 
 [Utvecklingsguide BankID](https://www.bankid.com/utvecklare/guider/)
