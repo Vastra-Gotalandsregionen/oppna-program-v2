@@ -20,6 +20,6 @@ Arkitekturledningen fokuserar på taktiskt och operativt förändringsarbete och
 
 Arkitekturledningen samverkar med andra vägledande, rådgivande och granskande funktioner som till exempel EA-ledningen och ICC-rådet med flera.&#x20;
 
-Länkar
+### Länkar
 
 [Arkitekturledningen ](https://insidan.vgregion.se/stod-och-tjanster/amnen-a-o/digitalisering/arkitektur/arkitekturledningen/)(Insidan)
