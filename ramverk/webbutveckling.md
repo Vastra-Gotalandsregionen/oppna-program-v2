@@ -1,0 +1,32 @@
+---
+description: >-
+  På Västra Götalandsregionen bedrivs många former av utveckling där
+  användargränssnitt behövs, nedan finns förslag och riktlinjer på hur det bäst
+  görs för webbutveckling.
+---
+
+# Webbutveckling
+
+Om inte andra behov föreligger så rekommenderas webbutveckling att utvecklas som en Single Page Application (SPA), det innebär att sidan laddas om dynamiskt utan att hela sidomladdningar görs.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Översikt Single Page Application</p></figcaption></figure>
+
+### Ramverk
+
+För utveckling rekommenderas [Angular ](https://angular.io/)alternativt [React](https://react.dev/). Valet mellan dessa görs bäst baserat på den kompetens man har i teamet.
+
+#### Angular
+
+Specifika saker angående Angular
+
+#### React
+
+Specifika saker angående React
+
+### Länkar
+
+[Webbriktlinjer | Digg](https://www.digg.se/webbriktlinjer)
+
+[Webbhandbok riktlinjer - VGR](https://www.vgregion.se/webbhandboken/riktlinjer/)
+
+[VGR Komponentkarta](https://github.com/Vastra-Gotalandsregionen/komponentkartan) - [Demo](https://vastra-gotalandsregionen.github.io/komponentkartan-demo/start)
