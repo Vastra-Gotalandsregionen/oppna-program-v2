@@ -13,15 +13,9 @@ Om inte andra behov föreligger så rekommenderas webbutveckling att utvecklas s
 
 ### Ramverk
 
-För utveckling rekommenderas [Angular ](https://angular.io/)alternativt [React](https://react.dev/). Valet mellan dessa görs bäst baserat på den kompetens man har i teamet.
+För utveckling rekommenderas [Angular ](https://angular.io/)alternativt [React](https://react.dev/). Valet mellan dessa görs bäst baserat på den kompetens man besitter i teamet och vilken övrig utvecklingsteknik man har i sin portfölj.
 
-#### Angular
-
-Specifika saker angående Angular
-
-#### React
-
-Specifika saker angående React
+På Västra Götalandsregionens [GitHub](https://github.com/Vastra-Gotalandsregionen/komponentkartan) finns ett utvecklat komponentbibliotek att använda i det fallet man använder sig av Angular.
 
 ### Länkar
 
