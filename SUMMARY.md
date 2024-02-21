@@ -6,9 +6,9 @@
 
 * [Rådgivning](arkitekturellt-stoed/radgivning.md)
 
-## Ramverk
+## Riktlinjer
 
-* [Webbutveckling](ramverk/webbutveckling.md)
+* [Webbutveckling](riktlinjer/webbutveckling.md)
 
 ## Plattformsstöd
 
