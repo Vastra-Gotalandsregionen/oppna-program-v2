@@ -8,7 +8,7 @@ coverY: 213.2704918032787
 
 # Rådgivning
 
-Kontakta oss genom vår **funktionsbrevlåda**, eller skriv till oss på **Teams**.
+Kontakta oss genom vår [**funktionsbrevlåda**](mailto:systemutveckling.ksd@vgregion.se) (systemutveckling.ksd@vgregion.se), eller skriv till oss på **Teams**.
 
 ### Arkitekturledningen
 
