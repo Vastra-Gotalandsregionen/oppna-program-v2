@@ -1,7 +1,7 @@
 ---
 description: >-
   Ports & Adapters, även kallat Hexagonal arkitektur är en arkitekturell stil
-  som optimerar för att distansiera domänmodellen från tekniska detaljer.
+  som optimerar för att separera domänmodellen från tekniska detaljer.
 ---
 
 # Ports & Adapters
