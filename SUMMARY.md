@@ -8,6 +8,7 @@
 
 ## Riktlinjer
 
+* [Mjukvaruarkitektur](riktlinjer/mjukvaruarkitektur.md)
 * [Webbutveckling](riktlinjer/webbutveckling.md)
 
 ## Plattformsstöd
