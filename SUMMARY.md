@@ -22,7 +22,6 @@
     * [Lokal IdP](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/lokal-idp.md)
     * [VGR AD (AD FS)](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/vgr-ad-ad-fs.md)
     * [BankID](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/bankid.md)
-    * [ADC](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/adc.md)
   * [Integration](plattformsstoed/bestaellning-av-tjaenster/integration.md)
 * [Beställning av miljöer](plattformsstoed/bestaellning-av-miljoeer/README.md)
   * [Kubernetes](plattformsstoed/bestaellning-av-miljoeer/kubernetes.md)
@@ -30,4 +29,3 @@
   * [Databas](plattformsstoed/bestaellning-av-miljoeer/databas.md)
   * [DNS](plattformsstoed/bestaellning-av-miljoeer/dns.md)
   * [Certifikat](plattformsstoed/bestaellning-av-miljoeer/certifikat.md)
-  * [Azure DevOps](plattformsstoed/bestaellning-av-miljoeer/azure-devops.md)

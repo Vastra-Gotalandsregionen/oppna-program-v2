@@ -1,12 +1,14 @@
 ---
-description: Databashotell vs Dedikerad server.
+description: >-
+  Databaser går att beställa som dedikerade servrar alternativt i ett
+  databashotell.
 ---
 
 # Databas
 
 
 
-Komplettera även med beställning av TjänsteKonto alternativt direktåtkomst databas
+Notera att åtkomst till databas görs genom Tjänstekonto (TK-konto), om man har andra behov och behöver direktåtkomst till databasen kan en sådan beställning göras enligt nedan (direktåtkomst databas).
 
 
 
