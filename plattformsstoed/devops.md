@@ -10,7 +10,7 @@ coverY: -12
 
 # DevOps
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Förmågor som GitLab Premium innefattar</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Förmågor som GitLab Premium innefattar</p></figcaption></figure>
 
 #### Länkar
 

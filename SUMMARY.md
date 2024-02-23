@@ -8,7 +8,9 @@
 
 ## Riktlinjer
 
-* [Mjukvaruarkitektur](riktlinjer/mjukvaruarkitektur.md)
+* [Mjukvaruarkitektur](riktlinjer/mjukvaruarkitektur/README.md)
+  * [Arkitekturella stilar](riktlinjer/mjukvaruarkitektur/arkitekturella-stilar/README.md)
+    * [Ports & Adapters](riktlinjer/mjukvaruarkitektur/arkitekturella-stilar/ports-and-adapters.md)
 * [Webbutveckling](riktlinjer/webbutveckling.md)
 
 ## Plattformsstöd
