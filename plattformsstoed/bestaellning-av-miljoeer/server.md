@@ -30,7 +30,7 @@ SA-konto
 
 ### Åtkomst databas
 
-TK-konto alternativt direktåtkomst
+TK-konto alternativt direktåtkomst (beställs via formulär)
 
 #### Länkar
 
