@@ -17,6 +17,7 @@
 ## Plattformsstöd
 
 * [DevOps](plattformsstoed/devops.md)
+* [Utvecklingsverktyg](plattformsstoed/utvecklingsverktyg.md)
 * [Beställning av tjänster](plattformsstoed/bestaellning-av-tjaenster/README.md)
   * [Inloggningstjänster](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/README.md)
     * [Lokal IdP](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/lokal-idp.md)
