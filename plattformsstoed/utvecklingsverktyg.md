@@ -3,9 +3,6 @@ description: >-
   Här beskrivs vilka utvecklingsverktyg som finns tillgängliga för att användas vid utveckling i de olika teknikstackarna
 ---
 
-# Utvecklingsverktyg
-Här beskrivs vilka utvecklingsverktyg som finns tillgängliga för att användas vid utveckling i de olika teknikstackarna.
-
 
 # IDE
 #### .NET  
