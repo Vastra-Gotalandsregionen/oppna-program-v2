@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Välkommen](README.md)
+* [Bidra till handboken](contribute.md)
 
 ## Arkitekturellt stöd
 
@@ -12,6 +13,7 @@
   * [Arkitekturella stilar](riktlinjer/mjukvaruarkitektur/arkitekturella-stilar/README.md)
     * [Ports & Adapters](riktlinjer/mjukvaruarkitektur/arkitekturella-stilar/ports-and-adapters.md)
 * [Webbutveckling](riktlinjer/webbutveckling.md)
+  * [Java](riktlinjer/webbutveckling/java.md)
 * [Behov- och kravhantering](riktlinjer/behov-och-kravhantering.md)
 
 ## Plattformsstöd
