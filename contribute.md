@@ -4,7 +4,7 @@ description: >-
   Följ nedanstående steg för att bidra till wikin.
 ---
 
-# Bidra till 
+# Bidra till handboken
 
 
 
