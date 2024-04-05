@@ -16,7 +16,7 @@ Om inte andra behov föreligger så rekommenderas webbutveckling att utvecklas s
 
 #### Ramverk
 
-För backendutveckling används primärt .NET mjukvaruramverk, alternativt [Java](./webbutveckling/java.md)
+För backendutveckling används primärt .NET mjukvaruramverk, alternativt [Java](webbutveckling/java.md)
 
 
 För utveckling i frontend använder vi [Angular](https://angular.io/) alternativt [React](https://react.dev/). Valet mellan dessa görs bäst baserat på den kompetens man besitter i teamet och vilken övrig utvecklingsteknik man har i sin portfölj.
