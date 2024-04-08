@@ -1,11 +1,11 @@
 ---
 description: >-
-  Vill du vara med och bidra till denna handbok som är till för dig som redan bedriver eller är i fart att starta upp ett mjukvaruutvecklings initiativ inom VGR. Det finns mycket kompetens kring mjukvaruutveckling inom VGR och genom att bidra till denna wikin kan vi gemensamt ta del av varandras kompetens. 
-  Följ nedanstående steg för att bidra till wikin.
+  Vill du vara med och bidra till denna handbok som är till för dig som redan bedriver eller är i fart att starta upp ett mjukvaruutvecklings initiativ inom VGR. 
 ---
 
 # Bidra till handboken
-
+Det finns mycket kompetens kring mjukvaruutveckling inom VGR och genom att bidra till denna wikin kan vi gemensamt ta del av varandras kompetens. 
+Följ nedanstående steg för att bidra till wikin.
 
 
 #### 1. Checka ut repot
