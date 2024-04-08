@@ -7,10 +7,13 @@ description: >-
 
 #### Tillåtna versioner 
 
-- Adoptium Java version 8 
-- Adoptium Java version 11
-- Adoptium Java version 17
-- Adoptium Java version 21
+Tillåtna paketerade Java versioner är följande Adoptium Versioner
+
+- Java Eclipse  Temurin JRE With Hotspot 8
+- Java Eclipse  Temurin JRE With Hotspot 11
+- Java Eclipse  Temurin JRE With Hotspot 17
+- Java Eclipse  Temurin JRE With Hotspot 21
+
 
 
 Alla andra versioner ska konverteras till någon av ovanstående godkända versioner.
