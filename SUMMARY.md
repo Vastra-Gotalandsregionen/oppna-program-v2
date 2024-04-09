@@ -13,8 +13,8 @@
   * [Arkitekturella stilar](riktlinjer/mjukvaruarkitektur/arkitekturella-stilar/README.md)
     * [Ports & Adapters](riktlinjer/mjukvaruarkitektur/arkitekturella-stilar/ports-and-adapters.md)
 * [Mjukvaruutveckling](riktlinjer/mjukvaruutveckling/README.md)
-  * [Webbutveckling](riktlinjer/webbutveckling.md)
-    * [Java](riktlinjer/webbutveckling/java.md)
+  * [Webbutveckling](riktlinjer/mjukvaruutveckling/webbutveckling/webbutveckling.md)
+    * [Java](riktlinjer/mjukvaruutveckling/webbutveckling/java/java.md)
 * [Behov- och kravhantering](riktlinjer/behov-och-kravhantering.md)
 
 ## Plattformsstöd
