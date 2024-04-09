@@ -12,7 +12,7 @@ Webbutveckling omfattar flera aspekter, inklusive frontend- och backend-utveckli
 
 Om inte andra behov föreligger så rekommenderas webbutveckling att utvecklas som en Single Page Application (SPA), det innebär att sidan laddas om dynamiskt utan att hela sidomladdningar görs.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Översikt Single Page Application</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Översikt Single Page Application</p></figcaption></figure>
 
 #### Ramverk
 
