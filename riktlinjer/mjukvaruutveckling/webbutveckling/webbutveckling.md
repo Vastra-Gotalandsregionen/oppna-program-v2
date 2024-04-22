@@ -38,3 +38,5 @@ Mer information hittar du här [VGR Designsystem](https://design.vgregion.se/)
 [Webbhandbok riktlinjer - VGR](https://www.vgregion.se/webbhandboken/riktlinjer/)
 
 [VGR Komponentkarta](https://github.com/Vastra-Gotalandsregionen/komponentkartan) - [Demo](https://vastra-gotalandsregionen.github.io/komponentkartan-demo/start)
+
+[VGR Designsystem](https://design.vgregion.se/) 
