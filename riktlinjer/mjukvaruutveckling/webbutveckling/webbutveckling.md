@@ -23,6 +23,14 @@ För utveckling i frontend använder vi [Angular](https://angular.io/) alternati
 
 På Västra Götalandsregionens [GitHub](https://github.com/Vastra-Gotalandsregionen/komponentkartan) finns ett utvecklat komponentbibliotek att använda i det fall man använder sig av Angular.
 
+
+#### Tillgänglighet
+Offentliga aktörers webbplatser och mobila applikationer ska vara tillgängliga. Kravet finns i lagen om tillgänglighet till digital offentlig service. På [Webbriktlinjer | Digg](https://www.digg.se/webbriktlinjer) hittar du vad du måste göra för att applikationen ska leva upp till lagen.
+
+#### Riktlinjer kring design och grafiskt gränssnitt
+Västra Götalandsregionens designsystem för grafiska gränssnitt är till för dig som jobbar med design, utveckling eller annan form av digital produktion på VGR. Dokumentationen skapas och förvaltas av enheten Design & Användarupplevelse.
+Mer information hittar du här [VGR Designsystem](https://design.vgregion.se/) 
+
 #### Länkar
 
 [Webbriktlinjer | Digg](https://www.digg.se/webbriktlinjer)
