@@ -22,7 +22,3 @@ För mer information om hur vi arbetar med processautomation kontakta oss på en
 
 #### Länkar
 
-[Processautomation](https://insidan.vgregion.se/forvaltningar/koncernkontoret/kontakt-och-organisation/organisation/koncernkontorets-organisation/koncernstab-digitalisering/ledningssystem-KSD/sa-har-arbetar-vi/arbetssatt-processer/processautomation/)
-[Barium](https://insidan.vgregion.se/stod-och-tjanster/system-a-o/barium/) 
-[RPA](https://insidan.vgregion.se/stod-och-tjanster/system-a-o/RPA/) 
- 
