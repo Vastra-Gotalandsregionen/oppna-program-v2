@@ -31,6 +31,10 @@ Offentliga aktörers webbplatser och mobila applikationer ska vara tillgängliga
 Västra Götalandsregionens designsystem för grafiska gränssnitt är till för dig som jobbar med design, utveckling eller annan form av digital produktion på VGR. Dokumentationen skapas och förvaltas av enheten Design & Användarupplevelse.
 Mer information hittar du här [VGR Designsystem](https://design.vgregion.se/) 
 
+#### Kontakta oss
+
+För mer information eller frågor om webbutveckling kontakta oss på enheten för systemutveckling på [systemutveckling.ksd@vgregion.se](systemutveckling.ksd@vgregion.se)
+
 #### Länkar
 
 [Webbriktlinjer | Digg](https://www.digg.se/webbriktlinjer)
