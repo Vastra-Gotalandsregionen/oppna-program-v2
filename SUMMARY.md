@@ -16,7 +16,7 @@
   * [Webbutveckling](riktlinjer/mjukvaruutveckling/webbutveckling/webbutveckling.md)
     * [Java](riktlinjer/mjukvaruutveckling/webbutveckling/java/java.md)
   * [Mobil apputveckling](riktlinjer/mjukvaruutveckling/mobil-apputveckling.md)
-  * [Automatiserad utveckling](riktlinjer/mjukvaruutveckling/automatiserad-utveckling.md)
+  * [Processautomation](riktlinjer/mjukvaruutveckling/automatiserad-utveckling.md)
 * [Behov- och kravhantering](riktlinjer/behov-och-kravhantering.md)
 
 ## Plattformsstöd
