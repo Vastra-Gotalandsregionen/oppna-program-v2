@@ -1,11 +1,7 @@
----
-description: >-
-Processautomation innebär att tekniska lösningar används för att utföra rutinmässiga och repetitiva arbetsuppgifter, istället för att de utförs av en människa.
----
 
 # Processautomation
 
-Processautomation kan bedrivas på olika sätt med olika verktyg. På VGR arbetar vi främst med två tekniker, läs vidare om dessa nedan. Har du frågor är du såklart välkommen att kontakta oss för mer informtion.
+#### Processautomation kan bedrivas på olika sätt med olika verktyg. På VGR arbetar vi främst med två tekniker, läs vidare om dessa nedan. Har du frågor är du såklart välkommen att kontakta oss för mer informtion.
 
 ##### Robotic Process Automation, RPA
 Robotic Process Automation, RPA, används med fördel till administrativa arbetsmoment som är återkommande och som görs på samma sätt varje gång. RPA syftar till att frigöra tid så att medarbetare kan arbeta med mer värdeskapande uppgifter.
