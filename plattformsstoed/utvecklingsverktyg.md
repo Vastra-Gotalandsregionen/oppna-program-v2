@@ -40,7 +40,7 @@ Hämtas gratis på nätet [SQL Server Management Studio (SSMS)](https://learn.mi
 
 #### Azure Data Studio
 
-Open-source, cross-platform hybrid dataanalys (query editor, Jupyter Notebooks och integrerad terminal), [Azure Data Studio](../contribute.md).
+Open-source, cross-platform hybrid dataanalys (query editor, Jupyter Notebooks och integrerad terminal), [Azure Data Studio](https://azure.microsoft.com/en-us/products/data-studio).
 
 #### Java
 
