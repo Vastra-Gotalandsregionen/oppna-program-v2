@@ -38,7 +38,7 @@ För frontendutveckling kan [Visual Studio Code](https://code.visualstudio.com/)
 
 Hämtas gratis på nätet [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16#download-ssms)
 
-Azure Data Studio
+#### Azure Data Studio
 
 Open-source, cross-platform hybrid dataanalys (query editor, Jupyter Notebooks och integrerad terminal), [Azure Data Studio](../contribute.md).
 
