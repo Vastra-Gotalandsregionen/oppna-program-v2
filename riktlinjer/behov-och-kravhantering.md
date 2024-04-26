@@ -11,8 +11,7 @@ I ett utvecklingsprojekt är det viktigt att alla delar förståelse för vilka 
 
 Nedan finns en lista på olika verktyg och metoder man kan använda för att åstadkomma detta.
 
-* User Stories vs Use Cases
+* User Stories
+* Use Cases
 * Storymapping
 * Eventstorming
-* Decision Records
-
