@@ -68,6 +68,10 @@ Offentliga aktörers webbplatser och mobila applikationer ska vara tillgängliga
   - Testa din webbplats på olika enheter och webbläsare.
 <br>
 
+- **Analytics:**
+Vill du använda analysverktyg för att mäta användare för att statistik och betende av dina användare så kan du använda [Matomo för webbanalys/statistik för VGR:s interna och externa webbplatser](https://insidan.vgregion.se/stod-och-tjanster/system-a-o/matomo/)
+<br>
+
 #### Riktlinjer kring design och grafiskt gränssnitt
 Västra Götalandsregionens designsystem för grafiska gränssnitt är till för dig som jobbar med design, utveckling eller annan form av digital produktion på VGR. Dokumentationen skapas och förvaltas av enheten Design & Användarupplevelse.
 Mer information hittar du här [VGR Designsystem](https://design.vgregion.se/) 
