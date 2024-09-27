@@ -11,7 +11,7 @@ Webbutveckling en viktig del i att skapa tillgängliga digitala tjänster till v
 Webbutveckling omfattar flera aspekter, inklusive frontend- och backend-utveckling, responsiv design, tillgänglighet och webbdesign. För att bedriva effektiv webbutveckling i en modern organisation bör man förstå användarbehov, implementera säkerhetsåtgärder och hålla sig uppdaterad om de senaste trenderna och teknikerna.
 Genom att följa nedan riktlinjer kan du skapa webbplatser som är både tekniskt robusta och användarvänliga. 
 
-Om inte andra behov föreligger så rekommenderas webbutveckling att utvecklas som en Single Page Application (SPA), det innebär att sidan laddas om dynamiskt utan att hela sidomladdningar görs.
+Om inte andra behov föreligger så rekommenderas webbutveckling att utvecklas som en Single Page Application (SPA). Det innebär att sidan laddas om dynamiskt utan att hela sidomladdningar görs.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Översikt Single Page Application</p></figcaption></figure>
 
@@ -30,7 +30,7 @@ Offentliga aktörers webbplatser och mobila applikationer ska vara tillgängliga
 - Följ WCAG 2.1-riktlinjerna för att säkerställa att din webbplats är tillgänglig för alla användare, oavsett funktionsnedsättning.
 - Använd meningsfulla alt-texter för bilder.
 - Se till att webbplatsen är responsiv och fungerar bra på olika skärmstorlekar.
-- Undvik att använda färger eler bilder som enda sätt att förmedla information.
+- Undvik att använda färger eller bilder som enda sätt att förmedla information.
 <br>
 
 #### Tekniska riktlinjer
@@ -38,7 +38,7 @@ Offentliga aktörers webbplatser och mobila applikationer ska vara tillgängliga
 
 - **Säkerhet**
   - Använd alltid HTTPS för att skydda känslig data.
-  - Håll dina beroende och bibliotek uppdaterade.
+  - Håll dina beroenden och bibliotek uppdaterade.
   - Skydda mot vanliga sårbarheter som SQL-injektion och cross-site scripting (XSS).
   - Implementera inte lösenord, personuppgifter eller arkitekturella detaljer i kod  
   <br>
