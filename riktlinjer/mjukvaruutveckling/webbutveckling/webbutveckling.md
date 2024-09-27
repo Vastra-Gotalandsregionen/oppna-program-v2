@@ -42,6 +42,13 @@ Offentliga aktörers webbplatser och mobila applikationer ska vara tillgängliga
   - Skydda mot vanliga sårbarheter som SQL-injektion och cross-site scripting (XSS).
   - Implementera inte lösenord, personuppgifter eller arkitekturella detaljer i kod  
   <br>
+
+- **Arkitektur**
+  - Modularitet: Systemen bör vara flexibla och anpassningsbara.
+  - Standardisering: Använda etablerade standarder och protokoll.
+  - Säkerhet: Hög säkerhet för att skydda känslig information.
+  - Rådgör med våra mjukvaruarkitekter när arkitekturella frågor uppstår
+<br>
   
 - **Kodkvalitet**
   - Följ en konsekvent kodningsstandard. Nedan hittar du exempel på olika kodningsstandarder
@@ -55,17 +62,24 @@ Offentliga aktörers webbplatser och mobila applikationer ska vara tillgängliga
   - Använd Code analyzers för att upprätthålla kodstandarder. Dessa finns inbyggda i Visual Studio och andra IDE:er för att identifiera potentiella problem.
 <br>
 
-- **Prestanda**
-  - Optimera bilder för webben.
-  - Minifiera HTML, CSS och JavaScript.
-  - Använd caching för att minska laddningstider.
-  - Undvik onödiga omdirigeringar.
+
+- **Utvecklingsmetodik**
+  - Agil utveckling: För att möjliggöra snabb anpassning till förändrade behov.
+  - DevOps: För att effektivisera utvecklings- och driftprocesser.
+  - Kontinuerlig integration och leverans: För att säkerställa hög kvalitet och snabbare leveranser.
 <br>
 
 - **Responsiv design**
   - Se till att din webbplats anpassar sig till olika skärmstorlekar och enheter.
   - Använd media queries för att styra layouten.
   - Testa din webbplats på olika enheter och webbläsare.
+<br>
+
+- **Prestanda**
+  - Optimera bilder för webben.
+  - Minifiera HTML, CSS och JavaScript.
+  - Använd caching för att minska laddningstider.
+  - Undvik onödiga omdirigeringar.
 <br>
 
 - **Analytics:**
