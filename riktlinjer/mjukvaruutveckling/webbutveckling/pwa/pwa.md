@@ -1,6 +1,6 @@
 ---
 description: >-
- En PWA är en webbplats som ser ut och känns som en mobil app, men som körs direkt i webbläsaren. Den kombinerar det bästa av både webb och app, och erbjuder funktioner som offline-åtkomst, push-notiser och snabb laddningstid.
+ En PWA är en webbplats som ser ut och känns som en mobil app, men som körs direkt i webbläsaren. Den kombinerar det bästa av både webb och app, och erbjuder funktioner som offline-åtkomst, push-notiser och snabb laddningstid. 
 ---
 
 # PWA (Progressive webapp)
