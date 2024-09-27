@@ -17,6 +17,7 @@
     * [Modellering](riktlinjer/mjukvaruarkitektur/dokumentation/modellering.md)
 * [Mjukvaruutveckling](riktlinjer/mjukvaruutveckling/README.md)
   * [Webbutveckling](riktlinjer/mjukvaruutveckling/webbutveckling/webbutveckling.md)
+    * [PWA](riktlinjer/mjukvaruutveckling/webbutveckling/pwa/pwa.md)
     * [Java](riktlinjer/mjukvaruutveckling/webbutveckling/java/java.md)
   * [Mobil apputveckling](riktlinjer/mjukvaruutveckling/mobil-apputveckling.md)
   * [Processautomation](riktlinjer/mjukvaruutveckling/processautomation.md)
@@ -25,7 +26,10 @@
 ## Plattformsstöd
 
 * [DevOps](plattformsstoed/devops.md)
-* [Utvecklingsverktyg](plattformsstoed/utvecklingsverktyg.md)
+* [Utvecklingsverktyg](plattformsstoed/utvecklingsverktyg/utvecklingsverktyg.md)
+    * [Tips och Tricks](plattformsstoed/utvecklingsverktyg/Readme.md)
+      * [KA Konto](plattformsstoed/utvecklingsverktyg/tips-n-tricks/ka-konto.md)
+      * [Visual studio](plattformsstoed/utvecklingsverktyg/tips-n-tricks/visual-studio.md)
 * [Beställning av tjänster](plattformsstoed/bestaellning-av-tjaenster/README.md)
   * [Inloggningstjänster](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/README.md)
     * [Lokal IdP](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/lokal-idp.md)
