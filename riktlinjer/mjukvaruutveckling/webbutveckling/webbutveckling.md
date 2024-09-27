@@ -20,7 +20,7 @@ Om inte andra behov föreligger så rekommenderas webbutveckling att utvecklas s
 För backendutveckling används primärt .NET mjukvaruramverk, alternativt [Java](java/java.md)
 
 
-För utveckling i frontend använder vi [Angular](https://angular.io/) alternativt [React](https://react.dev/). Valet mellan dessa görs bäst baserat på den kompetens man besitter i teamet och vilken övrig utvecklingsteknik man har i sin portfölj.
+För utveckling i frontend använder vi [React](https://react.dev/) alternativt [Angular](https://angular.io/). Valet mellan dessa görs bäst baserat på den kompetens man besitter i teamet och vilken övrig utvecklingsteknik man har i sin portfölj.
 
 På Västra Götalandsregionens [GitHub](https://github.com/Vastra-Gotalandsregionen/komponentkartan) finns ett utvecklat komponentbibliotek att använda i det fall man använder sig av Angular.
 <br>
