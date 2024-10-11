@@ -22,4 +22,4 @@ När dator har starts om så hittar man Docker Desktop i Start-menyn och då är
 En test för att se så allt fungerar kan vara att i Docker Desktop söka fram Apache httpd, starta den med port satt till 8080 (både in som ut) och öppna en webbläsare med adressen: http://localhost:8080 - står det "It works!" så fungerar det
 
 ### För att få licens på Docker Desktop
-Stäm av med din chef och maila sedan till vgr.licenser@vgregion.se   
+Be din chef maila  till vgr.licenser@vgregion.se   
