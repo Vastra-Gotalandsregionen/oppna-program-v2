@@ -5,7 +5,7 @@ description: >-
 
 # Docker Desktop
 
-## För att få en packeterad docker desktop som inte kräver KA-konto för följande 
+#### För att få en packeterad docker desktop som inte kräver KA-konto gör följande 
 
 Docker Desktop beställer man i Plexus, under IT > Förfrågan > Övriga supporttjänster [Övriga supporttjänster - VGR serviceportal](https://plexus-prod.vgregion.se/sp?id=sc_cat_item&sys_id=3337d9e0db569b84934af3d31d9619e9). 
 
