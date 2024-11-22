@@ -34,4 +34,4 @@ Skriv nåt om XCode Cloud
 # Versionsstöd
 
 VGR ämnar att stödja de 2 senaste versionerna av iOS.
-Detta för att det blir kostsamt att stödja för gamla versioner. Och för att kontinuerligt säkerställa att våra appar inte 
+Detta för att det blir kostsamt att stödja för gamla versioner. Och för att kontinuerligt säkerställa att våra appar inte halkar efter i termer av utfasade funktioner och ramverk.
