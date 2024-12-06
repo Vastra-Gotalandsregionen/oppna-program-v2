@@ -1,64 +1,42 @@
 ---
 description: >-
- En PWA är en webbplats som ser ut och känns som en mobil app, men som körs direkt i webbläsaren. Den kombinerar det bästa av både webb och app, och erbjuder funktioner som offline-åtkomst, push-notiser och snabb laddningstid. 
+ Här beskrivs vad en PWA (Progressive webapp) är och vad det kan användas till och vad fördelarna är gentemot andra tekniker. 
 ---
 
 # PWA (Progressive webapp)
 
-#### Tekniska riktlinjer för PWA-utveckling:
 
-- **Mnifestfil**
-  - Skapa en manifestfil (manifest.json) som beskriver din PWA.
-  - Inkludera information som appens namn, beskrivning, ikoner och start-URL.
-  - Konfigurera display-läget (fullscreen, standalone, etc.) för att anpassa användarupplevelsen.
-<br>
 
-- **Service Worker**
-  - Implementera en service worker för att möjliggöra offline-funktionalitet och push-notiser.
-  - Cacheera viktiga resurser för att förbättra laddningstiderna.
-  - Hantera nätverksförfrågningar och uppdateringar av cache.
-<br>
+### Vad är en Progressive Web App ###
+En **progressiv webbapp (PWA)** är en app byggd med webbteknik, men som ger en användarupplevelse liknande en plattformsspecifik app.
 
-- **Responsiv design**
-  - Se till att din PWA fungerar smidigt på alla enheter och skärmstorlekar.
-  - Använd responsiva layouttekniker (CSS Media Queries, flexbox, grid) för att anpassa innehållet.
-<br>
+Liksom en webbplats kan en PWA köras på flera plattformar och enheter från en enda kodbas. Precis en plattformsspecifik app kan den installeras på enheten, fungera offline och i bakgrunden samt integreras med enheten och andra installerade appar. Den kombinerar det bästa av både webb och app, och erbjuder funktioner som offline-åtkomst, push-notiser och snabb laddningstid. 
+Läs mer på [MDN - What is a progressive web app?
+](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/What_is_a_progressive_web_app)
 
-- **Prestanda**
-  - Optimera bilder och andra resurser för att minska laddningstiderna.
-  - Minimera HTTP-förfrågningar.
-  - Använd lazy loading för att bara ladda in resurser när de behövs.
-<br>
+### Varför PWA istället för vanlig mobilanpassad sida
 
-- **Användarupplevelse**
-  - Fokusera på en intuitiv och användarvänlig design.
-  - Gör det enkelt för användare att navigera och hitta information.
-  - Implementera progressiva förbättringar, så att användare som inte har stöd för PWA-funktioner ändå kan använda din webbplats.
-<br>
+- Snabbare laddningstider och prestanda 
+  PWAs är designade för att ladda snabbt, även på långsamma nätverk. De utnyttjar cachelagring och effektiv resursladdning för att ge en smidig användarupplevelse.
+- Offline-funktionalitet
+  PWAs kan fungera offline, vilket gör att användare kan komma åt innehåll och utföra uppgifter även när de inte har internetanslutning. Detta är särskilt användbart i områden med dålig täckning eller vid nätverksavbrott.
+- Push-notiser: 
+  PWAs kan skicka push-notiser direkt till användarnas enheter, även när appen inte är öppen. Detta hjälper till att hålla användarna engagerade och informerade om uppdateringar, kampanjer eller viktig nyheter.
+- App-liknande upplevelse: PWAs kan läggas till på hemskärmen på en användares enhet, precis som en vanlig app. De har ofta ett liknande utseende och känsla som vanliga appar, med funktioner som helskärmsläge och startskärmar.
 
-- **Tillgänglighet**
-  - Följ WCAG-riktlinjerna för att göra din PWA tillgänglig för alla användare, inklusive personer med funktionsnedsättningar.
-<br>
+**Ytterliggare fördelar med PWA före native app**
 
-- **Säkerhet**
-  - Använd HTTPS för att skydda användardata.
-  - Skydda mot vanliga webbsäkerhetshot som XSS och CSRF.
-<br>
+- Enklare uppdateringar: PWAs uppdateras automatiskt, vilket säkerställer att användarna alltid har den senaste versionen. Detta eliminerar behovet av app store-uppdateringar och manuella installationer.
+Bättre SEO: PWAs kan indexeras av sökmotorer, vilket kan förbättra deras synlighet i sökresultaten. Detta kan leda till ökad organisk trafik och bättre varumärkeskännedom.
+- Lägre utvecklings- och underhållskostnader: PWAs kan utvecklas med hjälp av webteknik som HTML, CSS och JavaScript, vilket minskar utvecklingskostnaderna. De kräver också mindre underhåll jämfört med vanliga appar.
+- Bredare räckvidd: PWAs kan nås på vilken enhet som helst med en modern webbläsare, utan behov av separata app store-insändningar. Detta utökar den potentiella användarbasen och minskar fragmentering.
+Genom att utnyttja dessa fördelar kan PWAs ge en överlägsen användarupplevelse, öka engagemanget och driva konverteringar för företag.
 
-- **Uppdateringar**
-  - Implementera en strategi för att uppdatera din PWA utan att störa användarna.
-  - Använd service worker för att hantera uppdateringar och cache.
-<br>
+---------
 
-- **Framework**
-  - **Lighthouse**  Lighthouse för att utvärdera prestanda, tillgänglighet, progressiva webbfunktioner och SEO för din PWA.
-<br>
+# Guide för att komma igång
+Den här sidan listar guider som hjälper dig att lära dig utveckla progressiva webbappar (PWAs). Guiderna går igenom stegen för att skapa en progressive web app, från början till slut och förklarar och implementerar tekniker och olika funktionerna som hör progressiva webappar till.
 
-- **Exempel på funktioner som kan läggas till i en PWA**
-<br>
-
-- **Push-notiser:** Skicka notiser till användare även när de inte är aktiva på webbplatsen.
-- **Offline-åtkomst:** Låt användare komma åt delar av webbplatsen även utan internetanslutning.
-- **Hemskärmsinstallation:** Gör det enkelt för användare att installera din PWA på sin hemskärm.
-- **Bakgrundsuppdateringar:** Uppdatera innehåll i bakgrunden för att ge användarna den senaste informationen.
+Läs mer på [MDN - Guide att komma igång med PWA 
+](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Tutorials)
 
