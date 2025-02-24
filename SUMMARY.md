@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Välkommen](README.md)
+* [Ny adress!](README.md)
 * [Bidra till handboken](contribute.md)
 
 ## Arkitekturellt stöd
@@ -27,10 +27,10 @@
 
 * [DevOps](plattformsstoed/devops.md)
 * [Utvecklingsverktyg](plattformsstoed/utvecklingsverktyg/utvecklingsverktyg.md)
-    * [Tips och Tricks](plattformsstoed/utvecklingsverktyg/Readme.md)
-      * [KA Konto](plattformsstoed/utvecklingsverktyg/tips-n-tricks/ka-konto.md)
-      * [Visual studio](plattformsstoed/utvecklingsverktyg/tips-n-tricks/visual-studio.md)
-    * [Docker Desktop](plattformsstoed/utvecklingsverktyg/docker-desktop.md)
+  * [Tips och Tricks](plattformsstod/utvecklingsverktyg/tips-och-tricks/README.md)
+    * [KA Konto](plattformsstoed/utvecklingsverktyg/tips-n-tricks/ka-konto.md)
+    * [Visual studio](plattformsstoed/utvecklingsverktyg/tips-n-tricks/visual-studio.md)
+  * [Docker Desktop](plattformsstoed/utvecklingsverktyg/docker-desktop.md)
 * [Beställning av tjänster](plattformsstoed/bestaellning-av-tjaenster/README.md)
   * [Inloggningstjänster](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/README.md)
     * [Lokal IdP](plattformsstoed/bestaellning-av-tjaenster/inloggningstjaenster/lokal-idp.md)

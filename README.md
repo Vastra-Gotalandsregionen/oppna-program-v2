@@ -1,13 +1,6 @@
 ---
-description: >-
-  En handbok för dig som redan bedriver eller är i fart att starta upp ett
-  mjukvaruutvecklings initiativ inom VGR.
-cover: .gitbook/assets/modern-equipped-computer-lab_23-2149241200.jpg
-coverY: 93.61418143899894
+description: 'Handboken återfinns nu på adressen nedan:'
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -20,6 +13,12 @@ layout:
     visible: true
 ---
 
-# Introduktion
+# Ny adress!
+
+
+
+{% embed url="https://docs.k8s.vgregion.se/" %}
+
+
 
 <figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
